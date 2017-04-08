@@ -1,0 +1,3 @@
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/hello-jniCallback/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/hello-jnicallback.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/hello-jniCallback/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
+C:/Users/29129/AndroidStudioProjects/android-ndk-master/hello-jniCallback/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir

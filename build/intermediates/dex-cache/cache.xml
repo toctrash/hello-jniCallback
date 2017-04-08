@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\efc91af212db35becc96c7ec1b5ad32176877b56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c31eaf90e025f50f40b24500e32e967a619cbbbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\ae605228ad608cd4487678c6b871f1598bbb3358\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1eb34229a2d55d8d4185e9debdee60fedd3a2303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\19729b66c99e194093f808561d9d8747a4240b0c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68c9ff743688d8e7a07feb69327490b769154b16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\9da1f554a4d2a5eb68daf361d681382c70015ba6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3b838d7eb71dc9b11420bd10f6ca9f4ec0c4b88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\1bb7e8908063d0a6704178e03f883dea65ffcc5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_891791dd1da1434d04b1e7fd1f4357ea99f14c1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\77bfe5a9b30ca1eb19a01304eb59f22458e8e4bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f577877b2ca1da0b9764d9faff4b55b53c5478c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\as\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.1_ce02c996d32a7ff7b959a7aacf9f94aee677051b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\658e1db725b9b474294dd1ab71c7baa941edce87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c80d692ef7523b71768bd105fc9932e35c1fb18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\f49f10a60ace28680a268b9f21c88ec1d1f8a571\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8665eefcf4a40a20523dc5af603289795fe1b3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\7b530cf4818a00cac9ac392876392193d7ccceca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5f4ee67a9eda479ca7605d381dc3ffaaf30288e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_44e481d5933e2b6b422a7a84c341710a7c08adaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\.android\build-cache\43ce73923a418ad3d2c97160aa91a5a743fae090\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66e8be9e34d5eef36928e12fba62921b53671679\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5f9350185aed4e1fe0dbc623dee5044530000dc">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58a0f3a860974fad090a7435afbb40f4a3ebfbe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\as\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ndk-master\hello-jniCallback\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_8fba15b3683493423e279656834274c8eb617e50\classes.dex" />
+    </item>
+
+</items>

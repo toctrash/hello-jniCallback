@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/29129/AndroidStudioProjects/android-ndk-master/hello-jniCallback/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"C:\\as\\sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\29129\\AndroidStudioProjects\\android-ndk-master\\hello-jniCallback\\app\\.externalNativeBuild\\cmake\\release\\armeabi --target clean"
+	],
+	"libraries" : 
+	{
+		"hello-jnicallback-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "hello-jnicallback",
+			"buildCommand" : "C:\\as\\sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\29129\\AndroidStudioProjects\\android-ndk-master\\hello-jniCallback\\app\\.externalNativeBuild\\cmake\\release\\armeabi --target hello-jnicallback",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=C:/as/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/as/sdk/ndk-bundle/platforms/android-21/arch-arm -Dhello_jnicallback_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/29129/AndroidStudioProjects/android-ndk-master/hello-jniCallback/app/src/main/cpp/hello-jnicallback.c",
+					"workingDirectory" : "C:/Users/29129/AndroidStudioProjects/android-ndk-master/hello-jniCallback/app/.externalNativeBuild/cmake/release/armeabi"
+				}
+			],
+			"output" : "C:/Users/29129/AndroidStudioProjects/android-ndk-master/hello-jniCallback/app/build/intermediates/cmake/release/obj/armeabi/libhello-jnicallback.so",
+			"toolchain" : "2066136747"
+		}
+	},
+	"toolchains" : 
+	{
+		"2066136747" : 
+		{
+			"cCompilerExecutable" : "C:/as/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/as/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

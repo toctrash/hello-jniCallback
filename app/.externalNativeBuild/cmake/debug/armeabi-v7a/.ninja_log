@@ -1,0 +1,3 @@
+# ninja log v5
+1	300	0	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	82dea757d9ee5820
+301	392	0	C:/Users/29129/AndroidStudioProjects/android-ndk-master/hello-jniCallback/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jnicallback.so	4f8b382a35e2a392
